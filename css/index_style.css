@@ -1,0 +1,226 @@
+.carousel-caption
+{
+    margin-bottom: 400px;
+}
+.carousel-inner
+{
+    height: 650px;
+}
+.carousel-caption h1
+{
+    font-size: 80px;
+    font-weight: bold;
+}
+.carousel-caption p
+{
+    font-size: 20px;
+}
+.colr
+{
+    background-color: rgba(0,0,0,0,5)
+}
+.navbar-brand img
+{
+    height: 50px;
+}
+.icon a 
+{
+    color: #fff;
+    margin: 0 5;
+}
+.icon
+{
+    border-left: 1px solid #fff;
+}
+.who
+{
+    padding: 150 350;
+    font-size: 20px;
+}
+.who p
+{
+    color: #999;
+    margin: 20 0;
+}
+.mission p
+{
+    margin: 40 0;
+    color: #999;
+}
+.mission a
+{
+    color: #454545;
+    margin-right: 20px;
+}
+.team
+{
+    text-align: center;
+    overflow: hidden;
+    margin: 100 0
+}
+.member .caption
+{
+    background-color: rgba(0, 195, 218, 0.9);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    height: 100%;
+    width:100%;
+    transition: all 0.1s;
+    opacity: 0;
+}
+.member:hover .caption
+{
+    top:0;
+    opacity: 1;
+}
+.bagr
+{
+    background-color: rgba(0,0,0,0.5);
+}
+.work
+{
+    background-image: url(../images/bg-image-26.jpg);
+    background-size: 100% 100%;
+    height: 100hv;
+    color: #fff;
+}
+.work .up
+{
+    padding-top: 100px;
+}
+.work li
+{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.work .do
+{
+    text-align: left;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+.work .do h1
+{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.product .prod
+{
+    position: relative;
+    box-sizing: border-box;
+    padding: 20 0;
+}
+.product .prod a
+{
+    position: absolute;
+    bottom: 20;
+    left: 20;
+    background-color: #fff;
+    width:90%;
+    text-decoration: none;
+    opacity: 0;
+    transition: all 1s;
+}
+.prod:hover a
+{
+    opacity: 1;
+}
+.prod img
+{
+    transition: all 1s;
+}
+.prod:hover img
+{
+    transform: scale(1.1);
+}
+.prod a h5
+{
+    transition: all 1s;
+    transition-delay: 2s;
+}
+.prod:hover a h5
+{
+    opacity: 1
+}
+.prod a p
+{
+    transition: all 1s;
+    transition-delay: 2.5s;
+}
+.prod:hover a p
+{
+    opacity: 1
+}
+.prices
+{
+    background-color: #ccc;
+    padding: 100 0;
+}
+.prices h1
+{
+    font-weight: bold
+}
+.prices .price
+{
+    background-color: #fff;
+    text-align: left;
+    padding: 20px;
+}
+.counts
+{
+    background-color: black;
+}
+.counts .count i
+{
+    font-size: 32px;
+    color:#00c3da;
+}
+.count h1
+{
+    font-weight: bold;
+    padding: 20 0;
+    color: #fff;
+}
+.count p
+{
+    color: #fff;
+}
+.customers
+{
+    background-color: #ccc;
+}
+.carousel-inner
+{
+    background-image: #fff;
+}
+.clients 
+{
+  padding: 50 0 300;  
+}
+.clients img
+{
+    margin: 100 0;
+    padding: 0 100;
+}
+.bezel li
+{
+    margin: 10 0;
+    list-style-type: none;
+    text-align: left;
+}
+.bezel li a
+{
+    text-decoration: none;
+    color: #6c6c6c;
+}
+.bezel a:hover
+{
+    color: #337ab7;
+}
+
+footer .icon a
+{
+    color: #6c6c6c;
+}
